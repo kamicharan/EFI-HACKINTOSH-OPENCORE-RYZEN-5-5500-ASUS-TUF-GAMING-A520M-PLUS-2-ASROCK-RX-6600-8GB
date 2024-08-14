@@ -58,7 +58,7 @@
 
 ## 🔴 Information about CPU Cores (IMPORTANT!) 🔴
 - In AMD we need to mapp cores for our CPUs or the installation will not even began
-- You can learn about this in this repository (but i recommend to see the complete livestreams of Gabriel Luchina from Universo Hackintosh!: https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC
+- You can learn about this in this repository (but I highly recommend watching Gabriel Luchina's full broadcasts from the Universo Hackintosh channel on youtube!): https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC
 
 ## 🔐 Bios Settings:
 ⛔ Disable this:
@@ -73,6 +73,8 @@
 - Above 4G Decoding (Advanced Settings>PCI Subsystem Settings)
   - Obs: If when you disabled this, Resize BAR Support pops up, then disable it
 - XHCI Hand-off (Advanced Settings>USB Configuration)
+- SATA Mode AHCI (Advanced Settings>SATA Configuration)
+  - Obs: Sata mode selection as AHCI
 
 OBSERVATIONS
 - In this motherboard, the secure boot option is not avaliable to enable/disabled, so you have to disable the key SecureBootModel located in your config.plist in: Misc>Security>SecureBootModel=Disabled
