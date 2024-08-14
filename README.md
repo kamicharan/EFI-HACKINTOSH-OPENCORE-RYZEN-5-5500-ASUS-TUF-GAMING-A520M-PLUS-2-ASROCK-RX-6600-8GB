@@ -9,6 +9,7 @@
 🔴 USE AS RESEARCH ONLY, DO NOT LOAD THIS EFI ON YOUR DEVICE, EACH CONFIGURATION NEEDS TO HAVE ITS OWN EFI CREATED FROM SCRATCH!
 
 🟢 THIS REPOSITORY WILL ALWAYS BE UPDATED
+
 **Latest working macOS**: 14.6.1
 <br>
 **Current OpenCore**: 1.0.1
@@ -83,6 +84,7 @@
 
 ❎ OBSERVATIONS
 - In this motherboard, the secure boot option is not avaliable to enable/disabled, so you have to disable the key SecureBootModel located in your config.plist in: Misc>Security>SecureBootModel=Disabled
+  
 ![about-12 3 1](https://github.com/user-attachments/assets/6b955c60-f072-456f-97b6-fb109281a5f6)
 
 ## Extras (It's not just especially for this setup):
@@ -90,7 +92,9 @@
 	- See this video: (https://www.youtube.com/watch?v=odYcvq-iTGg&lc=Ugwmaet9MEjL90f9ZAx4AaABAg.A75qVL2svqnA7756I1FDYq)
 	- Disable Advanced Voice Detection in Discord Voice/Video Settings
 	- Disable noise suppression in discord voice/video settings
+
 ![about-12 3 1](https://github.com/user-attachments/assets/a97aaef2-d910-4e01-97d5-beaf2c018013)
+
 - macOS becomes slow when formatting ssd/hd in exFAT
 	- In your bios, disable the HOT PLUG function, you can find this option in the sata settings section
 
