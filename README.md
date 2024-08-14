@@ -56,6 +56,10 @@
 ## SSDTs used:
 - Do your own SSDT search, it could be different for every setup!
 
+## 🔴 Information about CPU Cores (IMPORTANT!) 🔴
+- In AMD we need to mapp cores for our CPUs or the installation will not even began
+- You can learn about this in this repository (but i recommend to see the complete livestreams of Gabriel Luchina from Universo Hackintosh!: https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC
+
 ## 🔐 Bios Settings:
 ⛔ Disable this:
 - Serial Port (Advanced Settings>Onboard Devices Configuration>Serial Port Configuration)
