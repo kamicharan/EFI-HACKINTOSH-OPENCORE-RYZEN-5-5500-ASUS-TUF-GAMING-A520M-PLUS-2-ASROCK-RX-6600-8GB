@@ -76,7 +76,7 @@
 - SATA Mode AHCI (Advanced Settings>SATA Configuration)
   - Obs: Sata mode selection as AHCI
 
-OBSERVATIONS
+❎ OBSERVATIONS
 - In this motherboard, the secure boot option is not avaliable to enable/disabled, so you have to disable the key SecureBootModel located in your config.plist in: Misc>Security>SecureBootModel=Disabled
 ![about-12 3 1](https://github.com/user-attachments/assets/6b955c60-f072-456f-97b6-fb109281a5f6)
 
