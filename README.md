@@ -99,9 +99,9 @@
 - [BASE EFI - for AMD Ryzen and Threadripper](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC)
 - Gabriel Luchina and his magical teachings!
 
-❎ IF YOU WANT A CLEAN AND WELL CREATED HACKINTOSH, I STRONGLY RECOMMEND YOU JOIN THE HACKINTOSH UNIVERSE COMMUNITY AT THE LINK BELOW:
+❎ IF YOU WANT A CLEAN AND WELL CREATED HACKINTOSH, I STRONGLY RECOMMEND YOU JOIN THE HACKINTOSH UNIVERSE COMMUNITY IN DISCORD!
 
-You can acess our discord server in the link below:
+You can acess the discord server in the link below:
 
 ## Discord - Universo Hackintosh - Join our community!
 - [Access Discord](https://discord.universohackintosh.com.br)
