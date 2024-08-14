@@ -34,6 +34,7 @@
 - SMCAMDProcessor.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
+- 
 
 ## SSDTs used:
 - Do your own SSDT search, it could be different for every setup!
