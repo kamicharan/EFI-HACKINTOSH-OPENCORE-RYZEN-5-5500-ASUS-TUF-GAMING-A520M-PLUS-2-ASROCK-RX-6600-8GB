@@ -13,7 +13,7 @@
 **Current OpenCore**: 1.0.1
 
 ## 💻 Complete hardware specs
-- AMD Ryzen 5 5500 Sixcore Processor
+CPU: AMD Ryzen 5 5500 Sixcore Processor
 - ASUS TUF GAMING A520M-PLUS-2 (BIOS: 3607)
 - ASROCK RX 66000 CLD 8GB 
 - 2x 16Gb DDR4 3200Mhz 
