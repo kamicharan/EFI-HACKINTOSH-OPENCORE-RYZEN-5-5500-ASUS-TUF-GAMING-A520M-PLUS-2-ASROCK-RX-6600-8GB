@@ -4,7 +4,8 @@
 
 
 
-
+⚠ UTILIZE APENAS COMO PESQUISA, NÃO CARREGUE ESSA EFI EM SEU DISPOSITIVO, CADA CONFIGURAÇÃO PRECISA TER SUA PRÓPRIA EFI CRIADA DO ZERO!
+⚠ USE AS RESEARCH ONLY, DO NOT LOAD THIS EFI ON YOUR DEVICE, EACH CONFIGURATION NEEDS TO HAVE ITS OWN EFI CREATED FROM SCRATCH!
 **Latest working macOS**: 14.6.1
 <br>
 **Current OpenCore**: 1.0.1
@@ -52,6 +53,8 @@
 
 ## SSDTs used:
 - Do your own SSDT search, it could be different for every setup!
+
+## 
 
 ## Extras (It's not just especially for this setup):
 - Discord crashes or mic failure:
