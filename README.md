@@ -56,7 +56,23 @@
 ## SSDTs used:
 - Do your own SSDT search, it could be different for every setup!
 
-## 
+## 🔐 Bios Settings:
+⛔ Disable this:
+- Serial Port (Advanced Settings>Onboard Devices Configuration>Serial Port Configuration)
+- SMV Mode (Advanced Settings>CPU Configuration)
+  - Obs: Only if you don't use virtualization in windows (dual-boot)
+- Hot Plugs (Advanced Settings> SATA Configuration)
+  - Obs: It corrects problems when you use SATA storages in exfat 
+- Compatibility Support Module or CSM (Boot>CSM)
+
+✅ Enable this:
+- Above 4G Decoding (Advanced Settings>PCI Subsystem Settings)
+  - Obs: If when you disabled this, Resize BAR Support pops up, then disable it
+- XHCI Hand-off (Advanced Settings>USB Configuration)
+
+OBSERVATIONS
+- In this motherboard, the secure boot option is not avaliable to enable/disabled, so you have to disable the key SecureBootModel located in your config.plist in: Misc>Security>SecureBootModel=Disabled
+![about-12 3 1](https://github.com/user-attachments/assets/6b955c60-f072-456f-97b6-fb109281a5f6)
 
 ## Extras (It's not just especially for this setup):
 - Discord crashes or mic failure:
