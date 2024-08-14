@@ -9,13 +9,17 @@
 <br>
 **Current OpenCore**: 1.0.1
 
-## Complete hardware specs
+## 💻 Complete hardware specs
 - AMD Ryzen 5 5500 Sixcore Processor
 - ASUS TUF GAMING A520M-PLUS-2 (BIOS: 3607)
 - ASROCK RX 66000 CLD 8GB 
 - 2x 16Gb DDR4 3200Mhz 
 
-## What works
+## ✅ What works
+- CPU Power Management
+- Graphics acceleration (RX 6600 is native for macOS)
+- Ethernet (since first install)
+- Digital Rights Management (Netflix, Max, Disney+, Apple TV+ etc)
 - Audio
 - HDMI/DP (two monitors)
 - All USB ports
@@ -23,9 +27,14 @@
 - Shutdown/Reboot/Update to newer macOS builds over time
 - Sleep (It works, but you'll need to click the power button on your PC to wake it up! (mouse or keyboard clicks do not work)
 
-## What doesn't work
+## ❌ What doesn't work
 - Virtualization (only for Intel)
 - Wifi, Bluetooth and Airdrop (because I don't have a wifi card)
+
+## 🔐 SMBIOS
+- SMBIOS iMacPro1,1 (used in this efi)
+- Use GenSMBIOS to generate your own unique SMBIOS for your machine
+- Every setting should have this and it's different for everyone
 
 ## Kexts used:
 - AMDRyzenCPUPowerManagement.kext
