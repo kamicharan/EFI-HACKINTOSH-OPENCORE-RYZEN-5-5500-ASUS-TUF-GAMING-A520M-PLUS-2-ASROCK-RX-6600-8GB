@@ -1,6 +1,7 @@
 # ASUS TUF GAMING A520M PLUS 2 + RYZEN 5 5500 + RX 6600 
 
-![about-12 3 1](https://github.com/user-attachments/assets/7d446ed4-a8e0-455b-9303-1406139fcb5d)
+![about-12 3 1](https://github.com/user-attachments/assets/28f6f5f1-9092-448e-abc9-9649f6da8614)
+
 
 
 **Latest working macOS**: 14.6.1
@@ -47,6 +48,7 @@
 	- See this video: (https://www.youtube.com/watch?v=odYcvq-iTGg&lc=Ugwmaet9MEjL90f9ZAx4AaABAg.A75qVL2svqnA7756I1FDYq)
 	- Disable Advanced Voice Detection in Discord Voice/Video Settings
 	- Disable noise suppression in discord voice/video settings
+(https://github.com/user-attachments/assets/a97aaef2-d910-4e01-97d5-beaf2c018013)
 - macOS becomes slow when formatting ssd/hd in exFAT
 	- In your bios, disable the HOT PLUG function, you can find this option in the sata settings section
 
