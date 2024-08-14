@@ -1,6 +1,7 @@
 # ASUS TUF GAMING A520M PLUS 2 + RYZEN 5 5500 + RX 6600 
 
-![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png)
+![about-12 3 1](https://github.com/user-attachments/assets/7d446ed4-a8e0-455b-9303-1406139fcb5d)
+
 
 **Latest working macOS**: 14.6.1
 <br>
@@ -14,13 +15,15 @@
 
 ## What works
 - Audio
-- HDMI/DP
+- HDMI/DP (two monitors)
 - All USB ports
 - Everything iCloud related (Drive, iMessage, Facetime, etc)
 - Shutdown/Reboot/Update to newer macOS builds over time
+- Sleep (It works, but you'll need to click the power button on your PC to wake it up! (mouse or keyboard clicks do not work)
 
 ## What doesn't work
-- It works, but you'll need to click the power button on your PC to wake it up! (mouse or keyboard clicks do not work)
+- Virtualization (only for Intel)
+- Wifi, Bluetooth and Airdrop (because I don't have a wifi card)
 
 ## Kexts used:
 - AMDRyzenCPUPowerManagement.kext
@@ -28,13 +31,13 @@
 - AppleMCEReporterDisabler.kext
 - Lilu.kext
 - NVMeFix.kext (only if you have NVME storage in your build)
-- USBMap.kext (Do it yourself, every desktop needs its own USB mapping!)
+- USBMap.kext (Do your own, every desktop needs its own USB mapping!)
 - RealtekRTL8111.kext
 - RestrictEvents.kext
 - SMCAMDProcessor.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
-- 
+
 
 ## SSDTs used:
 - Do your own SSDT search, it could be different for every setup!
