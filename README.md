@@ -98,7 +98,7 @@
 - macOS becomes slow when formatting ssd/hd in exFAT
 	- In your bios, disable the HOT PLUG function, you can find this option in the sata settings section
 
-- Your GPU is around 48°C - 54°C and the fans only turn on when the gpu hits 65°C or higher! You can fix that using the DeviceProperties in config.plist, check this tutorial:
+- Your GPU is around 48°C - 54°C in IDLE and the fans only turn on when the gpu hits 65°C or higher! You can fix that using the DeviceProperties in config.plist, check this tutorial:
   👉 (https://github.com/user-attachments/files/16899118/Desativar.Zero.RPM.pdf)
   - Credits:
     
