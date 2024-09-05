@@ -102,7 +102,7 @@
   👉 (https://github.com/user-attachments/files/16899118/Desativar.Zero.RPM.pdf)
   - Credits:
     
-	1️⃣ Gabriel Luchina and Gabriel from Universo Hackintosh
+	1️⃣ Gabriel Luchina and Gabriel Cerqueira from Universo Hackintosh
 
 	2️⃣ perez987 (https://github.com/perez987/6600XT-on-macOS-with-PowerPlayTable-on-SSDT-or-config.plist)
 
