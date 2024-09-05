@@ -101,8 +101,8 @@
 - Your GPU is around 48°C - 54°C and the fans only turn on when the gpu hits 65°C or higher! You can fix that using the DeviceProperties in config.plist, check this tutorial:
   👉 (https://github.com/user-attachments/files/16899118/Desativar.Zero.RPM.pdf)
   - Credits:
-
-    	1️⃣ Gabriel Luchina and Gabriel from Universo Hackintosh
+    
+	1️⃣ Gabriel Luchina and Gabriel from Universo Hackintosh
 	2️⃣ perez987 (https://github.com/perez987/6600XT-on-macOS-with-PowerPlayTable-on-SSDT-or-config.plist)
 
 ## Thanks/Credits
