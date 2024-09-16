@@ -1,7 +1,6 @@
 # ASUS TUF GAMING A520M PLUS 2 + RYZEN 5 5500 + RX 6600 
 
-![about-12 3 1](https://github.com/user-attachments/assets/566c877d-b08c-4e5c-8694-0d521199d2d0)
-
+![about-12 3 1](https://github.com/user-attachments/assets/4c7cdae6-d5cf-4941-9ab2-57db04b22570)
 
 
 🔴 UTILIZE APENAS COMO PESQUISA, NÃO CARREGUE ESSA EFI EM SEU DISPOSITIVO, CADA CONFIGURAÇÃO PRECISA TER SUA PRÓPRIA EFI CRIADA DO ZERO!
@@ -10,7 +9,7 @@
 
 🟢 THIS REPOSITORY WILL ALWAYS BE UPDATED
 
-**Latest working macOS**: 14.6.1
+**Latest working macOS**: 15.0.0
 <br>
 **Current OpenCore**: 1.0.1
 
@@ -81,11 +80,6 @@
 - XHCI Hand-off (Advanced Settings>USB Configuration)
 - SATA Mode AHCI (Advanced Settings>SATA Configuration)
   - Obs: Sata mode selection as AHCI
-
-❎ OBSERVATIONS
-- In this motherboard, the secure boot option is not avaliable to enable/disabled, so you have to disable the key SecureBootModel located in your config.plist in: Misc>Security>SecureBootModel=Disabled
-  
-![about-12 3 1](https://github.com/user-attachments/assets/6b955c60-f072-456f-97b6-fb109281a5f6)
 
 ## Extras (It's not just especially for this setup):
 - Discord crashes or mic failure:
