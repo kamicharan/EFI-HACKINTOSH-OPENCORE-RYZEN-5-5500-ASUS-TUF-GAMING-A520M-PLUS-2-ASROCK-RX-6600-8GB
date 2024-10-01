@@ -100,6 +100,9 @@
 
 	2️⃣ perez987 (https://github.com/perez987/6600XT-on-macOS-with-PowerPlayTable-on-SSDT-or-config.plist) - IN ENGLISH!
 
+- You use the adobe products like Photoshop, Premiere Pro? In the AMD processors, this apps usually don't work properly, so you need to follow some steps that you can find in the tutorial below:
+  (https://www.youtube.com/watch?v=mvoXT3uhDLo&t=296s) - IN PORTUGUESE! 
+
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [BASE EFI - for AMD Ryzen and Threadripper](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC)
