@@ -118,4 +118,4 @@ You can acess the discord server in the link below:
 
 
 ##
-<tab><tab>brew install nodejs
+<tab><tab> brew install nodejs
