@@ -114,3 +114,8 @@ You can acess the discord server in the link below:
 
 ## Discord - Universo Hackintosh - Join our community!
 - [Access Discord](https://discord.universohackintosh.com.br)
+
+
+
+##
+<tab><tab>brew install nodejs
