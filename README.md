@@ -45,7 +45,7 @@
 - Use GenSMBIOS to generate your own unique SMBIOS for your machine
 - Every setting should have this and it's different for everyone
 
-## Kexts used:
+## 📙 Kexts used:
 - AMDRyzenCPUPowerManagement.kext
 - AppleALC.kext
 - AppleMCEReporterDisabler.kext
@@ -58,7 +58,7 @@
 - VirtualSMC.kext
 - WhateverGreen.kext
 
-## SSDTs used:
+## 📘 SSDTs used:
 - Do your own SSDT search, it could be different for every setup!
 
 ## 🔴 Information about CPU Cores (IMPORTANT!) 🔴
@@ -81,7 +81,7 @@
 - SATA Mode AHCI (Advanced Settings>SATA Configuration)
   - Obs: Sata mode selection as AHCI
 
-## Extras (It's not just especially for this setup):
+## 🟡 Extras (It's not just especially for this setup):
 - Discord crashes or mic failure:
 	- See this video: (https://www.youtube.com/watch?v=odYcvq-iTGg&lc=Ugwmaet9MEjL90f9ZAx4AaABAg.A75qVL2svqnA7756I1FDYq)
 	- Disable Advanced Voice Detection in Discord Voice/Video Settings
@@ -103,7 +103,7 @@
 - You use the adobe products like Photoshop, Premiere Pro? In the AMD processors, this apps usually don't work properly, so you need to follow some steps that you can find in the tutorial below:
   (https://www.youtube.com/watch?v=mvoXT3uhDLo&t=296s) - IN PORTUGUESE! 
 
-## Thanks/Credits
+## 🌟 Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [BASE EFI - for AMD Ryzen and Threadripper](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC)
 - Gabriel Luchina and his magical teachings!
